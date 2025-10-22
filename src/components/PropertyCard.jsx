@@ -23,7 +23,7 @@ export default function PropertyCard({ property }) {
             </div>
 
             <div className="flex justify-end mt-4">
-                <button className="bg-blue-600 text-white px-3 py-1 rounded hover:bg-blue-700" onClick={()=>setOpen(true)  }>
+                <button className="bg-blue-600 text-white px-3 py-1 rounded hover:bg-blue-700 cursor-pointer" onClick={()=>setOpen(true)  }>
                     View
                 </button>
             </div>
