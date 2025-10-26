@@ -15,8 +15,8 @@ export default function AddPropertyForm() {
 // Random default images
     const defaultImages = [
         "https://images.unsplash.com/photo-1507089947368-19c1da9775ae",
-        "https://images.unsplash.com/photo-1560185127-6a8c0c6af2bd",
-        "https://images.unsplash.com/photo-1502673530728-f79b4cab31b1",
+        "https://images.unsplash.com/photo-1580587771525-78b9dba3b914?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=774",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870",
         "https://images.unsplash.com/photo-1570129477492-45c003edd2be",
         "https://images.unsplash.com/photo-1600585154340-be6161a56a0c"
     ];
